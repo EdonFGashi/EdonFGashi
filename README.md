@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Edon Gashi!
 
 Here's a little bit about me:
+### I'm studying `Computer and Sofware Engineering` !
 
 ## 👀 I’m interested in:
 - Software Development
