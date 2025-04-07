@@ -2,6 +2,8 @@
 
 Here's a little bit about me:
 ### I'm studying `Computer and Sofware Engineering` !
+![alt text](snake.svg)
+
 
 ## 👀 I’m interested in:
 - Software Development
